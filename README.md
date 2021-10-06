@@ -13,6 +13,7 @@
   [![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3&logoColor=white&link=https://github.com/AmbitionJun)](https://github.com/AmbitionJun) 
   [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/AmbitionJun)](https://github.com/AmbitionJun)
   [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/AmbitionJun)](https://github.com/AmbitionJun) 
+  [![Vue.js](https://img.shields.io/badge/Vue.js-gray?style=flat&logo=vuedotjs&link=https://github.com/AmbitionJun)](https://github.com/AmbitionJun) 
 
 <!---
 AmbitionJun/AmbitionJun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
