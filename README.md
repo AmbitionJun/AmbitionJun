@@ -1,5 +1,6 @@
 # 👋 Hi, I’m AmbitionJun
 - 👾 My Blog : AmbitionJun.com
+- 🐧 My QQ   : 1556537935
 - 🌱 软件工程专业大三学生，渴望并相信着美好的事情将会发生
 
 
